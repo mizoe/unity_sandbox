@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Daisuke.unity
+- path: Assets/takano.unity
   isLoaded: 1
   isActive: 1
